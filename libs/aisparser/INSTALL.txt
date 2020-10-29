@@ -1,0 +1,3 @@
+cd c/so
+make linux
+ldconfig
